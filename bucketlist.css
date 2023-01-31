@@ -55,6 +55,13 @@ html {
     color: black;
 }
 
+/* 0번 테마 */
+.bg-t0 {
+    background-image: url("bg-clay.png");
+    background-size: cover;
+    background-position: center;
+}
+
 /* 2번 테마 */
 .bg-t2 {
     background-image: url("bg-grid.png");
