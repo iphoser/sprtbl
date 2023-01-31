@@ -18,11 +18,11 @@ html {
     word-break: keep-all;
 }
 .img1 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-red.png");
+    background-image: url("bucket-red.png");
     color: white;
 }
 .img2 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-lightred.png");
+    background-image: url("bucket-lightred.png");
     color: tomato;
 }
 .flex-row {
@@ -41,7 +41,7 @@ html {
     content: "";
     width: 70%;
     height: 70%;
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/stamp.png");
+    background-image: url("stamp.png");
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -57,7 +57,7 @@ html {
 
 /* 2번 테마 */
 .bg-t2 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-grid.png");
+    background-image: url("bg-grid.png");
     width: 360px;
     background-size: cover;
     background-position: center;
@@ -69,17 +69,17 @@ html {
     color: white;
 }
 .img1-t2 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-blue.png");
+    background-image: url("bucket-blue.png");
     color: white;
 }
 .img2-t2 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-lightblue.png");
+    background-image: url("bucket-lightblue.png");
     color: blue;
 }
 
 /* 3번 테마 */
 .bg-t3 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-paper.png");
+    background-image: url("bg-paper.png");
     width: 360px;
     background-size: cover;
     background-position: center;
@@ -91,15 +91,15 @@ html {
     color: white;
 }
 .img1-t3 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-spa.png");
+    background-image: url("bucket-spa.png");
 }
 .img2-t3 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-rtan.png");
+    background-image: url("bucket-rtan.png");
 }
 
 /* 4번 테마 */
 .bg-t4 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-sky.png");
+    background-image: url("bg-sky.png");
     width: 360px;
     background-size: cover;
     background-position: center;
@@ -110,20 +110,20 @@ html {
     color: yellow;
 }
 .img1-t4 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-shape1.png");
+    background-image: url("bucket-shape1.png");
 }
 .img2-t4 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-shape2.png");
+    background-image: url("bucket-shape2.png");
 }
 .img3-t4 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-shape3.png");
+    background-image: url("bucket-shape3.png");
 }
 .img4-t4 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-longshape1.png");
+    background-image: url("bucket-longshape1.png");
     width: 300px;
 }
 .img5-t4 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-longshape2.png");
+    background-image: url("bucket-longshape2.png");
     width: 300px;
     height: 200px;
 }
@@ -131,7 +131,7 @@ html {
     content: "";
     width: 100px;
     height: 100px;
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/stamp.png");
+    background-image: url("stamp.png");
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -143,7 +143,7 @@ html {
     color: tomato;
 }
 .bg-t5 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-clay.png");
+    background-image: url("bg-clay.png");
     background-size: cover;
     background-position: center;
     width: 360px;
@@ -151,42 +151,42 @@ html {
     background-position: center;
 }
 .img1-t5 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic1.png");
+    background-image: url("bucket-pic1.png");
 }
 .img2-t5 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic2.png");
+    background-image: url("bucket-pic2.png");
 }
 .img3-t5 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic3.png");
+    background-image: url("bucket-pic3.png");
 }
 .img4-t5 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic4.png");
+    background-image: url("bucket-pic4.png");
 }
 .img5-t5 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic5.png");
+    background-image: url("bucket-pic5.png");
 }
 .img6-t5 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-pic6.png");
+    background-image: url("bucket-pic6.png");
 }
 /* 6번 테마 */
 .bg-t6 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-note.png");
+    background-image: url("bg-note.png");
     color: black;
 }
 .title-t6 {
     background-color: none;
 }
 .img1-t6 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-highlight.png");
+    background-image: url("bucket-highlight.png");
 }
 .img2-t6 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-throughline.png");
+    background-image: url("bucket-throughline.png");
 }
 .img3-t6 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-colorpen1.png");
+    background-image: url("bucket-colorpen1.png");
 }
 .img4-t6 {
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-colorpen2.png");
+    background-image: url("bucket-colorpen2.png");
 }
 .bg-t6 h1, p {
     color: white;
@@ -205,7 +205,7 @@ html {
 /* 7번 테마 */
 .bg-t7 {
     max-width: 360px;
-    background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-red.png");   
+    background-image: url("bg-red.png");   
     background-size: cover;
     background-position: center;
 
